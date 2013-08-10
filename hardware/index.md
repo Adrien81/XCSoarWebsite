@@ -19,8 +19,8 @@ Many users ask us what hardware they shall buy for running XCSoar.
 This section describes setups that have been verified to work well.
 
 The [Dell Streak 5"](https://en.wikipedia.org/wiki/Dell_Streak) is the
-best device to run XCSoar.  It is a smartphone with a transflective 5
-inch screen that is perfectly readable in sunlight.  Unfortunately, it
+best device to run XCSoar.  It is a smartphone with a 5
+inch screen that is perfectly readable in sunlight thanks to a powerful backlight.  Unfortunately, it
 is out of production.  You can still get one on eBay.  The official car
 docking kit is a good choice.
 
