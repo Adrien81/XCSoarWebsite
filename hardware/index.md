@@ -93,3 +93,7 @@ is recommended to use the K6-Team Bluetooth adapter.
 ## XCSoar on the Naviter Oudie
 
 [More information about XCSoar on the Naviter Oudie](oudie.html).
+
+## XCSoar on the Kobo Mini
+
+XCSoar on the Kobo Mini is still in an experimental stage. Please find useful files [here] (http://max.kellermann.name/download/xcsoar/kobo/) and documentation in the Hardware section of the forum.
